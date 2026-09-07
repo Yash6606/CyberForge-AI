@@ -54,4 +54,4 @@ CyberForge AI is a state-of-the-art cybersecurity platform optimized for **AMD h
 | Script Audit | 96.0% | **15ms** | 40ms |
 
 ---
-*Developed for AMD Hackathon 2024 | Powered by CyberForge AI Core*
+
